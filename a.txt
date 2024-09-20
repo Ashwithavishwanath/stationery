@@ -1,0 +1,6 @@
+stationery:
+books
+pens 
+paints
+sketches
+crayons
